@@ -117,7 +117,7 @@ class PiPupService : Service(), WebServer.Handler {
                 is FrameLayout -> overlay
                 else -> FrameLayout(this).apply {
 
-                    setPadding(20, 20, 20, 20)
+                    setPadding(0, 0, 0, 0)
 
                     val layoutFlags: Int = when {
                         Build.VERSION.SDK_INT >= Build.VERSION_CODES.O -> WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY

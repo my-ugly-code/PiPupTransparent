@@ -3,10 +3,10 @@
 
     <FrameLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent" android:id="@+id/popup_frame"
-            android:paddingBottom="3dp"
-            android:paddingTop="3dp">
-    </FrameLayout>
+            android:layout_height="match_parent"
+            android:id="@+id/popup_frame"
+            android:paddingBottom="0dp"
+            android:paddingTop="0dp"></FrameLayout>
     <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
