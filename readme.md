@@ -2,7 +2,7 @@
 
 PiPup is an application that allows displaying user-defined custom notifications on Android TV.
 
-__This Fork adds Javascript support, Allows insecure connections (HTTP), (desertblade) and better closing of the webview, which should kill connections to the server.__
+__This Fork adds a transparent background to the WebView (instead of white), full screen WebView, all default padding/margins removed, Javascript support, Allows insecure connections (HTTP), (desertblade) and better closing of the webview, which should kill connections to the server.__
 
 APK can be found here: https://github.com/my-ugly-code/PiPupTransparent/releases
 
